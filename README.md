@@ -27,3 +27,4 @@ Posting data for indexing (run from SOLR HOME):
 * [Solr Glossary](http://lucene.apache.org/solr/guide/7_2/solr-glossary.html#shard)
 * [Solr Script Reference](http://lucene.apache.org/solr/guide/7_2/solr-control-script-reference.html#solr-control-script-reference)
 * [Solr Advance Searching](http://lucene.apache.org/solr/guide/7_2/searching.html#searching)
+* [Dzone RefCard](https://dzone.com/storage/assets/3879-rc120-010d-solr_0.pdf)
